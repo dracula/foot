@@ -1,19 +1,26 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [foot](https://codeberg.org/dnkl/foot)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [foot](https://codeberg.org/dnkl/foot).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
+You can use the foot.ini in your .config/foot folder
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Or you can merge only the [colors] section with your provided foot.ini.
+ 
+Not merged with headproject yet.
+⚠All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by syrofoam.
+There is a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+
+[![syrofoam](https://github.com/syrofoam?size=100)](https://github.com/syrofoam) |
 --- |
+Thanks for md/git:
 [Zeno Rocha](https://github.com/zenorocha) |
 
 ## License
