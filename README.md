@@ -9,8 +9,7 @@ You can use the foot.ini in your .config/foot folder
 
 Or you can merge only the [colors] section with your provided foot.ini.
  
-Not merged with headproject yet.
-⚠All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
 
 ## Team
 
