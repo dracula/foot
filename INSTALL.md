@@ -1,17 +1,19 @@
-### [X](http://link-to-x.com)
+### [X](http://github.com/dracula/foot)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/template.git
+    git clone https://github.com/dracula/foot/
+
+    cd into .config/foot/
+
+    patch -p0 foot.ini /path/to/patch.diff
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download from releases move contents into .config/foot/ .
 
-#### Activating theme
+#### extra manually
 
-1. Do this
-2. Then that
-3. Boom! It's working
+Use own config file and copy color codes over.
