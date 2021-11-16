@@ -5,11 +5,14 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-You can use the foot.ini in your .config/foot folder
+You can download latest [release](https://github.com/dracula/foot/releases).
 
-Or you can merge only the [colors] section with your provided foot.ini.
+Use the ini file and merge the [color] section with your existing file.
+
+If your file is 'clean' or just original.
+I'd recommend just to use the patching system described in INSTALL.md.
  
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Instructions can be found in the [INSTALL.md](https://github.com.com/foot/blob/master/README.md).
 
 ## Team
 
