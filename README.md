@@ -10,9 +10,7 @@ You can download latest [release](https://github.com/dracula/foot/releases).
 Use the ini file and merge the [color] section with your existing file.
 
 If your file is 'clean' or just original.
-I'd recommend just to use the patching system described in INSTALL.md.
- 
-Instructions can be found in the [INSTALL.md](https://github.com.com/foot/blob/master/README.md).
+I'd recommend just to use the patching system described in install.md file. 
 
 ## Team
 
