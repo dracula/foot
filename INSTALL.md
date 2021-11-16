@@ -4,9 +4,9 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
     git clone https://github.com/dracula/foot/
 
-    cd into ~/.config/foot/
+    cd ~/.config/foot/
 
-    patch -p0 foot.ini /path/to/patch.diff
+    patch -p0 foot.ini /path/to/foot/patch.diff
 
 #### Install manually
 
