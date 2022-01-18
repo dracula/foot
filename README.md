@@ -5,23 +5,16 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-You can download latest [release](https://github.com/dracula/foot/releases).
 
-Use the ini file and merge the [color] section with your existing file.
-
-If your file is 'clean' or just original.
-I'd recommend just to use the patching system described in install.md file. 
+All instructions can be found at [draculatheme.com/foot](https://draculatheme.com/foot).
 
 ## Team
 
-This theme is maintained by syrofoam.
-There is a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foot/graphs/contributors).
 
-
-[![syrofoam](https://github.com/syrofoam?size=100)](https://github.com/syrofoam) |
+[![Stian](https://github.com/syrofoam.png?size=100)](https://github.com/syrofoam) |
 --- |
-Thanks for md/git:
-[Zeno Rocha](https://github.com/zenorocha) |
+[Stian](https://github.com/syrofoam) |
 
 ## License
 
