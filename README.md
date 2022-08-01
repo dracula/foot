@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foot](https://draculatheme.com/foot-terminal).
+All instructions can be found at [draculatheme.com/foot-terminal](https://draculatheme.com/foot-terminal).
 
 ## Team
 
