@@ -18,9 +18,10 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foot/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/foot/archive/master.zip) option and unzip the files.
 
 Check that the directory ".config/foot/" exists if not create it.
 
 Copy the foot.ini into the ".config/foot/" folder.
 If you want to use the Alucard theme rename the alucard.ini to foot.ini and copy it into config folder.
+And if you have changed the original file you can just put the uncommented color theme text into your existing file.
