@@ -1,0 +1,37 @@
+--- footorginal.ini	2026-04-25 18:13:02.900532401 +0200
++++ alucard.ini	2026-04-25 18:13:02.899532399 +0200
+@@ -105,10 +105,32 @@
+ [colors-dark]
+ # alpha=1.0
+ # alpha-mode=default # Can be `default`, `matching` or `all`
+-# background=242424
+-# foreground=ffffff
++
+ # flash=7f7f00
+ # flash-alpha=0.5
++# alpha=1.0
++background=FFFBEB
++foreground=1F1F1F
++
++## Normal/regular colors (color palette 0-7)
++regular0=FFFBEB # white
++regular1=CB3A2A # red
++regular2=14710A # green
++regular3=846E15 # yellow
++regular4=644AC9 # blue
++regular5=A3144D # magenta
++regular6=036A96 # cyan
++regular7=1F1F1F # white
++
++## Bright colors (color palette 8-15)
++bright0=6C664B # bright black
++bright1=D74C3D # bright red
++bright2=198D0C # bright green
++bright3=9E841A # bright yellow
++bright4=7862D0 # bright blue
++bright5=BF185A # bright magenta
++bright6=047FB4 # bright cyan
++bright7=2C2B31 # bright white
+ 
+ # cursor=<inverse foreground/background>
+ 
