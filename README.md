@@ -1,8 +1,12 @@
 # Dracula for [foot](https://codeberg.org/dnkl/foot)
 
-> A dark theme for [foot](https://codeberg.org/dnkl/foot).
+> Dracula theme for [foot](https://codeberg.org/dnkl/foot).
 
 ![Screenshot](./screenshot.png)
+
+> And light theme Alucard
+
+![Screenshot](./alucard.png)
 
 ## Install
 
