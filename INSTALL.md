@@ -13,4 +13,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/foot/archiv
 #### Activating theme
 
 1. Navigate to config folder: `cd ~/.config/foot/`
-2. Copy local theme file: `patch -p0 foot.ini /path/to/foot/patch.dif`
+2. Copy local theme file: `patch -p0 foot.ini /path/to/foot/patch.diff`
