@@ -1,7 +1,20 @@
 --- footorginal.ini	2026-04-25 18:13:02.900532401 +0200
-+++ alucard.ini	2026-04-25 18:13:02.899532399 +0200
-@@ -105,10 +105,32 @@
- [colors-dark]
++++ alucard.ini	2026-04-26 19:27:24.046712188 +0200
+@@ -24,7 +24,7 @@
+ # dpi-aware=no
+ # gamma-correct-blending=no
+ 
+-# initial-color-theme=dark
++initial-color-theme=light
+ # initial-window-size-pixels=700x500  # Or,
+ # initial-window-size-chars=<COLSxROWS>
+ # initial-window-mode=windowed
+@@ -102,13 +102,35 @@
+ [touch]
+ # long-press-delay=400
+ 
+-[colors-dark]
++[colors-light]
  # alpha=1.0
  # alpha-mode=default # Can be `default`, `matching` or `all`
 -# background=242424
