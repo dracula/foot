@@ -2,11 +2,11 @@
 
 > Dracula theme for [foot](https://codeberg.org/dnkl/foot).
 
-![Screenshot](./screenshot.png)
+![Dracula](./screenshot/01-dracula.png)
 
 > And light theme Alucard
 
-![Screenshot](./alucard.png)
+![Alucard](./screenshot/02-alucard.png)
 
 ## Install
 
